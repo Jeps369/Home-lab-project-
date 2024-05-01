@@ -30,4 +30,66 @@ The home lab infrastructure consists of the following components:
     Document and follow proper shutdown and startup procedures for the home lab environment to prevent data loss and ensure stability.
 6. Conclusion
 The home lab project provides a valuable resource for self-directed learning and experimentation in the field of IT and computer science. By leveraging a combination of physical and virtual components, users can simulate real-world scenarios, test different configurations, and gain practical experience in a controlled environment. This technical documentation serves as a guide for designing, implementing, and managing a home lab project effectively and professionally.
+Milestones and deadlines
 
+Week 1-2: Project Initiation and Planning
+
+Define project objectives and scope.
+
+Conduct a risk assessment and identify potential security threats.
+
+Allocate necessary resources (hardware, software, personnel).
+
+Develop a project plan outlining tasks, milestones, and timelines.
+
+Week 3-4: Design and Architecture
+
+Design the network security solution architecture.
+
+Define network topology, configuration settings, and deployment requirements.
+
+Review and finalize the design with stakeholders.
+
+Week 5-6: Implementation Planning
+
+Develop a detailed implementation plan.
+
+Specify configuration settings, installation procedures, and testing methodologies.
+
+Procure and prepare necessary hardware and software components.
+
+Week 7-10: Configuration and Deployment
+
+Configure and deploy the network security solution according to the design and implementation plan.
+
+Install and set up firewall, IDS/IPS, VPN, or other security components.
+
+Test functionality, performance, and security of the deployed solution.
+
+Week 11-12: Testing and Validation
+
+Conduct thorough testing and validation of the network security solution.
+
+Test for functionality, performance, and security.
+
+Verify that project objectives are met and solution is resilient to potential attacks.
+
+Week 13-14: Documentation and Reporting
+
+Document configuration settings, deployment procedures, and testing results.
+
+Prepare comprehensive reports summarizing project activities, findings, and recommendations.
+
+Week 15: Training and Knowledge Transfer
+
+Provide training to stakeholders involved in operating and maintaining the network security solution.
+
+Ensure relevant personnel are equipped with necessary skills and expertise.
+
+Week 16: Final Review and Handover
+
+Conduct final review of the project deliverables and outcomes.
+
+Handover documentation, reports, and training materials to stakeholders.
+
+Close out the project and ensure smooth transition to operational phase.
